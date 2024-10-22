@@ -2,7 +2,7 @@ Here’s the updated README with the `makemigrations` and `migrate` commands add
 
 
 # Hospital Management System
-
+![1](https://github.com/user-attachments/assets/4e2ad9ec-762f-4848-973d-24162a22a7c8)
 ## Overview
 This project is a hospital management system designed to streamline the operations of hospitals by managing patient admissions, appointments, doctor registrations, and invoice generation. The system features three main roles: Admin, Doctor, and Patient, each with distinct functionalities.
 
@@ -101,7 +101,7 @@ https://myaccount.google.com/lesssecureapps
 ![3](https://github.com/user-attachments/assets/7a8b3d6f-8824-45c9-b071-1d18d1af3206)
 ![4](https://github.com/user-attachments/assets/8f74f67d-946b-4b90-a742-2ae04bf6af42)
 ![5](https://github.com/user-attachments/assets/5f31bda1-a4d7-4e90-b823-3cd5fd98316d)
-![1](https://github.com/user-attachments/assets/4e2ad9ec-762f-4848-973d-24162a22a7c8)
+
 ---
 
 Feel free to contribute or raise issues if you encounter any bugs. Happy managing!
