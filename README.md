@@ -1,4 +1,4 @@
-Here’s the updated README with the `makemigrations` and `migrate` commands added before the `runserver` command:
+
 
 
 # Hospital Management System
